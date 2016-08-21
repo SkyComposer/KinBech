@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">KinBech</string>
+
+    <string name="app_name1">Navigat</string>
+
+    <string name="u">Username</string>
+    <string name="p">Password</string>
+    <string name="e">Email</string>
+    <string name="cp">Confirm Password</string>
+    <string name="ph">Phone no</string>
+    <string name="a">Address</string>
+    <string name="signup">Sign Up</string>
+    <string name="r">Register</string>
+    <string name="login">login</string>
+    <string name="registration">Registration</string>
+    <string name="drawer_opened">Select an item</string>
+    <string name="drawer_closed">KinBech</string>
+
+    <string name="text">Just five minutes a day \n can help build stronger \n relationships</string>
+    <string name="title_activity_navigation">navigation</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="planets">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+        <item>Google+</item>
+
+
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
